@@ -1,0 +1,16 @@
+.vercel
+node_modules/
+.next/
+.vercel/
+.wrangler/
+.env
+.env.*
+!.env.example
+!.env.local.example
+.DS_Store
+.claude/
+.playwright-mcp/
+*.pem
+dist/
+* [2-9].*
+* [2-9]
